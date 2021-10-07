@@ -1,0 +1,5 @@
+homepage: "https://www.demirjasarevic.com/"
+documentation: "https://github.com/demirj/gtm-templates/blob/main/seo-monitoring-title/README.md"
+versions:
+  - sha: 42b556d3281bcf65d75004c07a8613ce6df0a66d
+    changeNotes: Initial release.
