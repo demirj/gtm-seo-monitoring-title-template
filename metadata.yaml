@@ -1,5 +1,5 @@
 homepage: "https://github.com/demirj"
 documentation: "https://github.com/demirj/gtm-seo-monitoring-title-template/blob/main/README.md"
 versions:
-  - sha: 1bd02430159da620784e5c6e1768238dc2369d5d
-    changeNotes: Initial release.
+  - sha: 69ccbbbf1c54b80994aae7d6331428820fa7fc18
+    changeNotes: Update homepage link.
